@@ -256,6 +256,7 @@ h4 {
   margin-top: auto;
   gap: 10px;
   padding: 20px;
+  width: max-content;
 }
 
 .announcements-title, .trending-title {
