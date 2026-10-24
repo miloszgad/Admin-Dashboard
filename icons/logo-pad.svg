@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Kontroler</title><desc id="desc">Granatowy kontroler z kolorowymi przyciskami na lawendowym kole</desc>
+  <circle cx="64" cy="64" r="62" fill="#E7E4FF"/>
+  <path d="M37 45c-8 1-15 9-18 24l-3 22c-1 13 11 18 20 8l13-13h30l13 13c9 10 21 5 20-8l-3-22c-3-15-10-23-18-24-8-1-17 4-27 4s-19-5-27-4Z" fill="#3F5078" stroke="#243252" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M36 51c-5 1-11 7-13 18" stroke="#7685A9" stroke-width="4" stroke-linecap="round"/>
+  <path d="M45 62v20M35 72h20" stroke="#D8F2FF" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="82" cy="64" r="5.5" fill="#FF8F7B"/><circle cx="95" cy="74" r="5.5" fill="#FFD66E"/>
+  <circle cx="82" cy="84" r="5.5" fill="#6EDFC9"/><circle cx="69" cy="74" r="5.5" fill="#A8B8FF"/>
+  <rect x="56" y="55" width="16" height="5" rx="2.5" fill="#B8C8E3"/>
+  <path d="M26 31h8m-4-4v8M97 24h8m-4-4v8" stroke="#8277C5" stroke-width="3" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Kaktus</title><desc id="desc">Uśmiechnięty zielony kaktus w doniczce na różowym kole</desc>
+  <circle cx="64" cy="64" r="62" fill="#FFD9E4"/>
+  <path d="M53 79c-12 0-19-8-19-18V50c0-7 10-7 10 0v9c0 6 3 9 9 9M75 79c12 0 19-8 19-18V50c0-7-10-7-10 0v9c0 6-3 9-9 9" fill="#56C78F" stroke="#287E68" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="48" y="28" width="32" height="66" rx="16" fill="#56C78F" stroke="#287E68" stroke-width="3"/>
+  <path d="M55 36v11m18-13v11M61 24v-6m-16 29-5-5m43 4 5-5M56 58l-5 3m26-4 5 3" stroke="#D0F9AA" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="56" cy="66" r="2.5" fill="#24574D"/><circle cx="72" cy="66" r="2.5" fill="#24574D"/>
+  <path d="M59 73c3 4 7 4 10 0" stroke="#24574D" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M43 87h42l-7 24H50l-7-24Z" fill="#D37A67" stroke="#A85D58" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M42 85h44v8H42z" rx="3" fill="#F09B82" stroke="#A85D58" stroke-width="2"/>
+</svg>
